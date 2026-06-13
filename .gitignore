@@ -1,0 +1,21 @@
+# Maven build output
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# VS Code
+.vscode/
+
+# Maven wrapper
+.mvn/
+
+# Runtime generated files
+log.txt
+
+# OS files
+.DS_Store
+Thumbs.db
